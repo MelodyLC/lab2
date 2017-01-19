@@ -1,7 +1,13 @@
 /* applies to anything of class "example-class-selector" */
+.img1{
+     max-width: 50%  !important; 
+
+}
+/* ";":or space:inside of ;*  .thumbnail inside of img */
 img .thumbnail{
      width: 50px;
      height: 100px;
+
      border: 1px solid #434343;
 }
 
