@@ -1,4 +1,32 @@
 /* applies to anything of class "example-class-selector" */
+img .thumbnail{
+     width: 50px;
+     height: 100px;
+     border: 1px solid #434343;
+}
+
+.contact-info{
+     font-size: 10pt;
+     color: #cccccc;
+}
+.project p{
+     font-variant: small-caps;
+}
+/*
+#project1{
+     font-variant: small-caps;
+     margin-left: 20px;
+     background-color: #deebf7;
+     padding: 20px;
+     width: 525px;
+}
+/*
+.project{
+     /*background-color: gray;*/
+   /*  margin-left: 20px;
+}
+*/
+
 .example-class-selector {
 	margin-top: 2em;
 }
